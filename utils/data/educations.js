@@ -1,20 +1,15 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "BSC Software Engineering Student",
+    duration: "2021 - 2025",
+    institution: "Haramaya University",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Higher Secondary and Preparatory Entrance Certificate",
+    duration: "2019 - 2020",
+    institution: "Frehiwot no.2 Secondary and Preparatory School Addis Abeba",
   },
-  {
-    id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
-  }
+ 
 ]

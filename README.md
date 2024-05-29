@@ -40,7 +40,6 @@
 - SKILLS
 - PROJECTS
 - EDUCATION
-- BLOG
 - CONTACTS
 
 ---
@@ -109,31 +108,29 @@ NEXT_PUBLIC_RECAPTCHA_SECRET_KEY = # For captcha verification on contact form
 NEXT_PUBLIC_RECAPTCHA_SITE_KEY =
 ```
 
-### Then, Customize data in the `utils/data` [folder](https://github.com/said7388/developer-portfolio/tree/main/utils/data).
+### Then, Customize data in the `utils/data` [folder](https://github.com/teddymillion/tree/main/utils/data).
 
 Eg:
 
 ```javascript
 export const personalData = {
-  name: "ABU SAID",
-  profile: "/profile.png",
+  name: "Teddy",
+  profile: "/Teddy.jpg",
   designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
-  email: "abusaid7388@gmail.com",
-  phone: "+8801608797655",
-  address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
+  description: "My name is Teddy....",
+  email: "tedrosmilion19@gmail.com",
+  phone: "+251 947134309",
+  address: "Addis Abeba, Ethiopia",
+  github: "https://github.com/teddymillion",
+  facebook: "https://www.facebook.com/Teddy.m72/",
+  linkedIn: "https://www.linkedin.com/in/tewodros-million-a77408251/",
+ 
+
   resume: "...",
 };
 ```
 
-`devUsername` Used for fetching blog from `dev.to`.
+
 
 ---
 
