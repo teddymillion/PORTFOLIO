@@ -1,21 +1,29 @@
 export const skillsData = [
   'HTML',
   'CSS',
-  'Javascript',
+  'JavaScript',
   'C++',
   'Python',
   'React',
-  'Node JS',
-  'Next JS',
- 
+  'Next.js',
+  'Node.js',
+  'Express.js',
   'MongoDB',
   'MySQL',
+  'Odoo',
   'Figma',
+  'Photoshop',
   'Picsart',
   'Canva',
+  'AI & Machine Learning',
+  'Git & GitHub',
+  'REST APIs',
+  'Responsive Design',
+  'UI/UX Design',
+  'Problem Solving',
+  'Project Management'
+];
 
-
-]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
 // Couldn't find the required skills? Raise an issue on github at https://github.com/hhhrrrttt222111/developer-portfolio/issues/new
@@ -102,4 +110,5 @@ export const skillsData = [
   Tensorflow
   Webex
   Wordpress
+  Odoo
 */
